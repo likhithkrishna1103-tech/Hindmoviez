@@ -1,0 +1,9 @@
+{
+    "name": "sky sky",
+    "id": "sky.sky",
+    "description": "SkyStream Universe plugins repository",
+    "manifestVersion": 1,
+    "repos": [
+        "https://raw.githubusercontent.com/likhithkrishna1103-tech/Hindmoviez/refs/heads/main/Repo.json"
+    ]
+}
