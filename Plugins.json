@@ -1,0 +1,18 @@
+{
+    "packageName": "dev.akash.stars.hindmoviez",
+    "name": "hindmoviez",
+    "version": 1,
+    "baseUrl": "https://hindmoviez.cafe",
+    "description": "enjoy movies in Akash",
+    "authors": [
+    "igris"
+    ],
+    "languages": [
+      "en" , "hi"
+    ],
+    "categories": [
+    "all"
+    ],
+    "url": "https://raw.githubusercontent.com/akashdh11/skystream-plugins/main/dist/dev.akash.stars.zee5.sky"
+  }
+]
