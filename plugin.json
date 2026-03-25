@@ -1,16 +1,16 @@
 {
-  "packageName": "dev.akash.stars.anichi",
-  "name": "Anichi",
+  "packageName": "dev.igris.stars.hindmoviez",
+  "name": "hindmoviez",
   "version": 1,
-  "baseUrl": "https://allmanga.to",
-  "description": "Anichi (AllAnime) plugin for SkyStream. GraphQL-powered anime provider.",
+  "baseUrl": "https://hindmoviez.cafe",
+  "description": "enjoy movies in 4k.",
   "authors": [
-    "Akash"
+    "igris"
   ],
   "languages": [
-    "en"
+    "en" , "hi"
   ],
   "categories": [
-    "Anime"
+    "All"
   ]
 }
